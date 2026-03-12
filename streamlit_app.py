@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="RK RAJA XWD 😈",
+    page_title="SAHIL KHAN XWD 😈",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
